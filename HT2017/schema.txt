@@ -1,0 +1,191 @@
+Testschema för alternativ 1
+
+VECKA: 43
+  
+MÅ 15-17  Godtycklig kurs          C1             FÖ P42  
+  
+TI 13-15  Godtycklig kurs          C1A-3          LA SU06  
+TI 13-15  Godtycklig kurs          C1B-1          LA SU14  
+TI 13-15  Godtycklig kurs          C1B-3          LA SU13  
+TI 13-15  Godtycklig kurs          C1A-1          LA SU17  
+TI 15-17  Godtycklig kurs          C1A-2          LA SU01  
+TI 15-17  Godtycklig kurs          C1A-4          LA SU00  
+TI 15-17  Godtycklig kurs          C1B-4          LA SU15  
+TI 15-17  Godtycklig kurs          C1B-2          LA SU10 
+  
+ON  8-10  Godtycklig kurs          C1             FÖ P42  
+ON 13-17  Godtycklig kurs          C1A            LA SU06  
+ON 13-17  Godtycklig kurs          C1A            LA SU17  
+ON 13-17  Godtycklig kurs          C1B            LA SU14  
+ON 13-17  Godtycklig kurs          C1B            LA SU13  
+  
+TO 13-15  Godtycklig kurs          C1A-4          LA SU02  
+TO 13-15  Godtycklig kurs          C1B-2          LA SU04  
+TO 13-15  Godtycklig kurs          C1B-4          LA SU13
+TO 13-15  Godtycklig kurs          C1A-2          LA SU15  
+TO 15-17  Godtycklig kurs          C1A-1          LA SU03  
+TO 15-17  Godtycklig kurs          C1A-3          LA SU02  
+TO 17-19  Godtycklig kurs          C1B-1          LA SU04  
+TO 17-19  Godtycklig kurs          C1B-3          LA SU15  
+
+FR  8-10  Godtycklig kurs          C1A-3 C1A-4    GU AG24 
+FR  8-10  Godtycklig kurs          C1B-1 C1B-2    GU R22  
+FR  8-10  Godtycklig kurs          C1A-1 C1A-2    GU P18  
+FR  8-10  Godtycklig kurs          C1B-3 C1B-4    GU P30  
+
+  
+VECKA: 44
+  
+MÅ 13-15  Godtycklig kurs          C1             FÖ R41  
+MÅ 15-17  Godtycklig kurs          C1B-1 C1B-2    GU P34  
+MÅ 15-17  Godtycklig kurs          C1A-1 C1A-2    GU AG27 
+MÅ 15-17  Godtycklig kurs          C1B-3 C1B-4    GU P36  
+MÅ 15-17  Godtycklig kurs          C1A-3 C1A-4    GU AG26 
+  
+TI  8-10  Godtycklig kurs          C1A-1          LA SU03  
+TI  8-10  Godtycklig kurs          C1B-1          LA SU04  
+TI  8-10  Godtycklig kurs          C1A-3          LA SU06  
+TI  8-10  Godtycklig kurs          C1B-3          LA SU15  
+TI 15-17  Godtycklig kurs          C1A-4          LA SU11 
+TI 15-17  Godtycklig kurs          C1A-2          LA SU17  
+TI 15-17  Godtycklig kurs          C1B-4          LA SU12 
+TI 15-17  Godtycklig kurs          C1B-2          LA SU13  
+  
+ON  8-10  Godtycklig kurs          C1A-2          LA SU17  
+ON  8-10  Godtycklig kurs          C1A-4          LA SU06  
+ON  8-10  Godtycklig kurs          C1B-2          LA SU14  
+ON  8-10  Godtycklig kurs          C1B-4          LA SU13  
+ON 10-12  Godtycklig kurs          C1B-1          LA SU14  
+ON 10-12  Godtycklig kurs          C1A-1          LA SU17  
+ON 10-12  Godtycklig kurs          C1A-3          LA SU06  
+ON 10-12  Godtycklig kurs          C1B-3          LA SU13  
+ON 13-15  Godtycklig kurs          C1             FÖ S41  
+  
+FR  8-10  Godtycklig kurs          C1A-1          LA SU17  
+FR  8-10  Godtycklig kurs          C1A-3          LA SU00  
+FR  8-10  Godtycklig kurs          C1B-1          LA SU14  
+FR 10-12  Godtycklig kurs          C1B-2          LA SU14  
+FR 10-12  Godtycklig kurs          C1A-4          LA SU01  
+FR 10-12  Godtycklig kurs          C1A-2          LA SU13  
+  
+  
+VECKA: 45
+  
+MÅ  8-10  Godtycklig kurs          C1             FÖ R41  
+MÅ 15-17  Godtycklig kurs          C1B-3          LA SU01  
+  
+TI 10-12  Godtycklig kurs          C1             FÖ R41  
+TI 13-15  Godtycklig kurs          C1B-4          LA SU01  
+TI 15-17  Godtycklig kurs          C1A            LA SU06  
+TI 15-17  Godtycklig kurs          C1B            LA SU13  
+  
+ON  8-10  Godtycklig kurs          C1             FÖ R41  
+  
+TO  8-10  Godtycklig kurs          C1A-3 C1A-4    GU AG23 
+TO  8-10  Godtycklig kurs          C1A-1 C1A-2    GU AG24 
+TO 10-12  Godtycklig kurs          C1B-3 C1B-4    GU P18  
+TO 10-12  Godtycklig kurs          C1B-1 C1B-2    GU AG25 
+TO 13-15  Godtycklig kurs          C1B-2          LA SU04  
+TO 13-15  Godtycklig kurs          C1A-4          LA SU01  
+TO 13-15  Godtycklig kurs          C1A-2          LA SU03  
+TO 13-15  Godtycklig kurs          C1B-4          LA SU17  
+TO 15-17  Godtycklig kurs          C1A-3          LA SU02  
+TO 15-17  Godtycklig kurs          C1B-1          LA SU04  
+TO 15-17  Godtycklig kurs          C1A-1          LA SU03  
+TO 15-17  Godtycklig kurs          C1B-3          LA SU15  
+  
+FR 15-17  Godtycklig kurs          C1             FÖ R41  
+  
+  
+VECKA: 46
+  
+MÅ 15-17  Godtycklig kurs          C1A-1 C1A-2    GU AG24 
+MÅ 15-17  Godtycklig kurs          C1B-1 C1B-2    GU AG25 
+MÅ 15-17  Godtycklig kurs          C1A-3 C1A-4    GU AG23 
+MÅ 15-17  Godtycklig kurs          C1B-3 C1B-4    GU AG27 
+
+ON  8-10  Godtycklig kurs          C1B-4          LA SU15  
+ON  8-10  Godtycklig kurs          C1A-4          LA SU02  
+ON  8-10  Godtycklig kurs          C1B-2          LA SU04  
+ON  8-10  Godtycklig kurs          C1A-2          LA SU03  
+ON 10-12  Godtycklig kurs          C1B-1          LA SU04  
+ON 10-12  Godtycklig kurs          C1A-1          LA SU03  
+ON 10-12  Godtycklig kurs          C1A-3          LA SU02  
+ON 10-12  Godtycklig kurs          C1B-3          LA SU15  
+ON 15-17  Godtycklig kurs          C1             FÖ R41  
+  
+TO 13-15  Godtycklig kurs          C1A-3          LA SU03  
+TO 13-15  Godtycklig kurs          C1A-1          LA SU04  
+TO 13-15  Godtycklig kurs          C1B-1          LA SU00  
+TO 13-15  Godtycklig kurs          C1B-3          LA SU01  
+TO 15-17  Godtycklig kurs          C1A-2          LA SU04  
+TO 15-17  Godtycklig kurs          C1B-2          LA SU15  
+TO 15-17  Godtycklig kurs          C1A-4          LA SU03  
+TO 15-17  Godtycklig kurs          C1B-4          LA SU02  
+  
+  
+VECKA: 47
+  
+MÅ 10-12  Godtycklig kurs          C1             FÖ S41  
+  
+TI 10-12  Godtycklig kurs          C1B-3 C1B-4    GU AG28 
+TI 10-12  Godtycklig kurs          C1A-1 C1A-2    GU AG26 
+TI 10-12  Godtycklig kurs          C1B-1 C1B-2    GU AG27 
+TI 10-12  Godtycklig kurs          C1A-3 C1A-4    GU AG23 
+TI 13-15  Godtycklig kurs          C1A-2          LA SU17  
+TI 13-15  Godtycklig kurs          C1B-2          LA SU14  
+TI 13-15  Godtycklig kurs          C1B-3          LA SU13  
+TI 13-15  Godtycklig kurs          C1A-4          LA SU06  
+TI 15-17  Godtycklig kurs          C1B-1          LA SU14  
+TI 15-17  Godtycklig kurs          C1B-4          LA SU13  
+TI 15-17  Godtycklig kurs          C1A-3          LA SU06  
+TI 15-17  Godtycklig kurs          C1A-1          LA SU17  
+  
+ON  8-10  Godtycklig kurs          C1             FÖ R41  
+  
+  
+VECKA: 48
+  
+MÅ 13-15  Godtycklig kurs          C1             FÖ R41  
+  
+TI  8-10  Godtycklig kurs          C1A-1 C1A-2    GU AG24 
+TI  8-10  Godtycklig kurs          C1B-1 C1B-2    GU AG25 
+TI  8-10  Godtycklig kurs          C1A-3 C1A-4    GU AG23 
+TI  8-10  Godtycklig kurs          C1B-3 C1B-4    GU AG26 
+  
+ON  8-10  Godtycklig kurs          C1             FÖ R41  
+ON 10-12  Godtycklig kurs          C1B-4          LA SU00  
+ON 17-19  Godtycklig kurs          C1B-3          LA SU00  
+  
+TO 13-15  Godtycklig kurs          C1A-4          LA SU00  
+TO 13-15  Godtycklig kurs          C1B-2          LA SU04  
+TO 13-15  Godtycklig kurs          C1A-2          LA SU03  
+TO 15-17  Godtycklig kurs          C1A-1          LA SU03  
+TO 15-17  Godtycklig kurs          C1B-1          LA SU04  
+TO 15-17  Godtycklig kurs          C1A-3          LA SU00  
+  
+FR 10-12  Godtycklig kurs          C1A            LA SU06  
+FR 10-12  Godtycklig kurs          C1B            LA SU17  
+
+  
+VECKA: 49
+
+MÅ 10-12  Godtycklig kurs          C1A-1          LA SU00  
+MÅ 10-12  Godtycklig kurs          C1A-2          LA SU10 
+MÅ 10-12  Godtycklig kurs          C1A-3          LA SU11 
+MÅ 10-12  Godtycklig kurs          C1A-4          LA SU12 
+MÅ 13-17  Godtycklig kurs          C1B-1          LA SU06  
+MÅ 13-17  Godtycklig kurs          C1B-2          LA SU13  
+MÅ 13-17  Godtycklig kurs          C1B-3          LA SU14 
+MÅ 13-17  Godtycklig kurs          C1B-4          LA SU15 
+  
+ON 13-15  Godtycklig kurs          C1A-1          LA SU17  
+ON 13-15  Godtycklig kurs          C1B-1          LA SU14  
+ON 13-15  Godtycklig kurs          C1A-3          LA SU06  
+ON 13-15  Godtycklig kurs          C1B-4          LA SU13  
+ON 15-17  Godtycklig kurs          C1A-4          LA SU06  
+ON 15-17  Godtycklig kurs          C1B-3          LA SU13  
+ON 15-17  Godtycklig kurs          C1B-2          LA SU14  
+ON 15-17  Godtycklig kurs          C1A-2          LA SU17  
+
+

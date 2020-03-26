@@ -1,0 +1,17 @@
+Every integer greater than 1 is either a prime number or the product
+of prime numbers. (also called the unique prime factorization theorem)
+
+Testing whether a number is Prime so now known to be in P
+Generating the prime factorization of a compoisite number is currently in NP
+
+Cryptography
+Two procedures of interest:
+M* = encode(M)
+M = decode(M*)
+
+Public-Key Cryptography
+
+Highest RSA number factored on a classical computer was RSA-768, which is a 232 digit
+semi-prime (768 bits), and took two years to compute (from 2007 to 2009)
+
+

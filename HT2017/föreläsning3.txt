@@ -1,0 +1,47 @@
+Introduktion till Python
+Svensk industri är beroende av programvara
+Swedsoft "mjukvaran är själen i svensk industri"
+
+Pythons historik
+skapades i slutet av 1980-talet av holländare Guido van Rossum, som fortfarande spelar en stor roll för språkets utveckling
+
+Det fjärde mest populära programspråket i världen
+Lätt att komma igång med och har en enklare syntax än t.ex. Java och C++
+
+Hur vi kommer arbeta i kursen
+Föreläsningar 1x2h intro, översikt, sammanfattning
+Seminarier 6x2h, genomgångar, förberedelser, exempel, torrövningar
+Laborationer 14x2h, arbete med övningar och uppgifter, diskussioner, redovisningar
+Eget arbete ~100h, läsa, öva, experimentera, arbeta med övningar och uppgifter
+
+Seminareier
+Ett seminarium per vecka
+Samma innehåll i alla fem grupper, men tre olika inriktningar
+    - En sak i taget, för dig som vill ta det steg för steg och känna att du förstår en sak innan du går vidare til nästa.
+    - Experimentering, för dig som vill lära dig genom att testa fram och gärna prövar olika lösningar på medhavd dator.
+    - Diskussion och analys, för dig som vill diskutera och analysera utifrån det du redan kan och det du kommer
+    att lära dig och som inte är rädd för okända begrepp eller att gå lite utanför kursens ramar.
+
+Seminariematerial och mer information finns på kurswebben, läs innan seminariet
+2x En sak i taget (Malcolm Vigren, Sokrates Lamprou)
+2x Experimentering (Eric Nylander, Frans Skarman)
+1x Diskussion och analys (Jonas Kvarnström)
+
+Laborationer
+Under fyra första labbarna, jobba individuellt
+Inför femte labben, arbeta i par
+Det finns två labbpass per vecka med tillgång till assistenter. Har blivit indelade i grupper
+Utöver detta förväntas man labba på egen hand
+
+IDA:s regler för laborationer finns på kurshemsidan
+Kurslitteratur
+John M. Zelle Python Programming: An Introduction to Computer Science, andra eller tredje utgåvan
+Avsedd för nybörjare i programmering
+Examinatör: Peter Dalenius
+Kursadministratör: Jenny Lönn
+Labbassistenter U1A: Jonathan Lundgren, Eric Nylander
+http://www.ida.liu.se/~TDDE23
+Kompleterande info skickas till mejl, vilket förväntas läsas varje dag.
+"En bok är något utrskrivet av ett bokförlag med ett ISBN nummer på baksidan", enl. Peter Dalenius
+
+

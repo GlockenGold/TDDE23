@@ -1,0 +1,9 @@
+Förklaring av labb7a:
+
+-- Match --
+Vi utvecklade match för att kunna hantera nästlade listor. Det gjorde vi genom att lägga till en elif för om input är en lista (rad 17-21). Där kallar den rekursivt på sig själv och skickar med nästlade listan och går vidare rekursivt i seq och pattern.
+
+-- Search --
+I search loopar vi igenom alla "objekt" i databasen, i labb exemplet alla böcker, och matchar varje objekt för sig med pattern med hjälp av match funktionen. Om objektet matchar läggs det till i resultat listan kallad books. Sedan returneras resultatet. 
+
+

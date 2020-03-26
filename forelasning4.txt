@@ -1,0 +1,13 @@
+    -instruction execution
+        Z := (Y + X) * 3;
+        Instructions:                                       opcode|opeerand1|operand2
+                                                                    memory   register
+            Move value of Y to Reg 2                        00001|01110001|010
+            Add value of X to reg 2 (result kept in Reg 2)  00011|01110000|010
+            Multiply Reg 2 with 3 (result kept in Reg 2)    00101|00000011|010
+            Store Reg 2 at address of Z                     00010|01110010|010
+        Data:
+            Value of X: 11                                  0000000000001011
+            Value of Y: 3                                   0000000000000011
+            Final value of Z: 42                            0000000000101010
+

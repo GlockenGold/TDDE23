@@ -1,0 +1,33 @@
+Computer networking part 2
+TCP bytestream, UDP packets
+TCP Transport Control Protocol
+Reliable transport between sending and recieving process
+flow control: sender won't overwhelm the reciever
+congestion control: throttle sender when network overloaded
+higher overhead
+
+UDP User Datagram Protocol
+Unreliable data transfer between sending and receiving process
+Does not provide reliablity flow control, congestion control, etc
+No encryption
+low overhead, good for query/response and multimedia
+
+TCP for things that don't allow packet loss
+UDP for things that need to be fast but doesn't necessarily need the every packet
+
+SSL/TLS
+provides encrypted TCP
+End-point auth
+
+non-persistent HTTP
+at most one object sent over TCP, connection then closed
+Downloading multiple objects requires multiple connections
+
+FTP File Transfer Protocol
+
+DNS Domain Name System
+IP address - used for addresing datagrams
+Name, e.g., www.yahoo.com - used by humans.
+Uses UDP, things might get lost, but at least it's faster
+er
+

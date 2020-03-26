@@ -1,0 +1,5 @@
+pixel_constraint: Vi valde TypeError eftersom det vi testar är att inputet till funktionen är en tuple och om inte så är det fel typ för funktionen.
+
+generator_from_image: Här använder vi IndexError eftersom det är det som kastas om man försöker hämta något index utanför listan.
+
+combine_images: Här fångar vi bara samma errors som kastas från tidigare funktioner.

@@ -1,0 +1,30 @@
+database = logically coherent collection of related data
+built for a specific purpose, represents some aspects of the real world
+ex. amazon.com's product data, webreg
+
+database management system (DBMS)
+collection of software that enables users to create and maintain a DB,
+allows multiple users and programs to access and manipulate the DV concurrently,
+
+MySQL, Oracle, SAP's SQL Anywhere, PostgreSQL, etc.
+
+Database system (DBS) = DB + DBMS + specific software
+Are typically self-describing
+Contains a database catalog with meta-data
+
+Enitity-Relationship (ER) Model
+High-level conceptual data model
+*An overview of the database
+*Easy to discuss with non-database experts
+*Easy to translate to data model of DBMS
+
+Relational Model
+Represents data as a collection of relations
+Schema describes the relation
+*relation name, attribute names, and attribute types
+*integrity constraints
+
+Instance denotes the current contents of the relation (also called state)
+*set of tuples
+
+

@@ -1,0 +1,35 @@
+Part 1
+
+Computability Theory
+What functions are computable?
+
+What is an Algorithm?
+The process by which input (ingredients) gets turned into output (cake) by
+the hardware (baker, oven, etc) (e.g. a recipie)
+
+Level of detail is very important when it comes to an algorithm's
+elementary instructions
+No ambiguities or fuzzy phrases
+An algorithm is an ordered set of unambiguous finitely executable steps that
+defines a terminating process (course book definition)
+
+Part 2
+
+Proof by contradiction
+Prove P by proving that -P is a contradiction
+Reasoning by cases
+
+Intractable Class NP
+Tractable Class P
+Computational Complexity Theory
+
+Algorithmic problem: (Searching in sorted lists)
+T(n) is O(f(n)) if T(n) < k x f(n) for some k, for all n > n0
+Binary search, divide and conquer
+Class P of Computational Problems
+Polynomial time algorithm (O(p(N))), where p is a polynomial function)
+
+Class NP
+SAT Problem
+
+

@@ -1,0 +1,85 @@
+eval_program(calc_prog, opt_arg=False):
+	skapar dict som är dictionary med alla variabler, lägger till opt_arg
+	startar och kallar på första statmentet
+	retunerar: inget
+
+statements(statements, dic)
+	for statement in statements
+		if calc.isassignment(statement)
+		elif 'while'
+		elif 'if'
+	retunerar: inget
+
+
+assignment(lst, dict)
+	lägg till/ändra variable värde i dictionary
+	retunerar: inget
+
+repetition(lst, dict)
+	hämta värdet som användes i while och spara som k
+	hämta condition
+	while k upfyller condition
+		skicka varje statement i loopen till statements() func
+	retunerar: inget
+
+seleciton(lst, dict)
+	kolla om condition() = true,
+		skicka en eller två statement till statements() func
+	retunerar: inget
+
+input(lst, dict)
+	hämta input från användare och spara värde i dictionary
+	retunerar: inläst variable värde
+
+
+output(dict)
+	skriv ut variable värde till console
+	retuenerar: true eller false om inget gick fel
+	
+
+expression(lst, dict)
+	testa om det är konstant, variabel eller binaryexpr
+	kör binaryexpr om det behövs
+	retunera: string, integer, eller float
+
+binaryexpr(lst, dict)
+	hitta vilken binaryoper som används och utför beräkning
+	retunera: string, integer eller float
+
+
+condition(lst, dict)
+	hitta vilken condoper och utför jämförelse
+	returnera: true eller false
+
+
+ ===== Fakultet av N =====
+calc1 = ["calc", 
+	["read", "n"], 
+	["set", "i", 1], 
+	["set", "result", 1],
+	["while", ["i", "<", ["n", "+", 1]], 
+		["set", "result", 
+			["result", "*", "i"]
+		], 
+		["set", "i", 
+			["i", "+", 1]
+		]
+	], 
+	["print", "result"]]
+
+calc1 = ["calc", ["read", "n"], ["set", "i", 1], ["set", "result", 1], ["while", ["i", "<", ["n", "+", 1]], ["set", "result", ["result", "*", "i"]], ["set", "i", ["i", "+", 1]]], ["print", "result"]]
+
+
+ ===== Läs in 2 tal, skriv ut minsta =====
+calc2 = ["calc", 
+	["read", "in1"],
+	["read", "in2"],
+	["if", ["in1", "<", "in2"], 
+		["print", "in1"]
+	],
+	["if", ["in2", "<", "in1"],
+		["print", "in2"]
+	]]
+
+calc2 = ["calc", ["read", "in1"], ["read", "in2"], ["if", ["in1", "<", "in2"], ["print", "in1"]], ["if", ["in2", "<", "in1"], ["print", "in2"]]]
+

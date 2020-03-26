@@ -1,0 +1,52 @@
+new_time_spans
+
+is_time_spans
+
+get_time_span(index i)
+
+is_empty_time_spans
+
+insert_time_span
+
+first_time_span
+
+rest_time_spans
+
+free_spans(cal_day, start_time, end_time)
+
+h1 = new_hour(08)
+h2 = new_hour(12)
+m1 = new_minute(00)
+m2 = new_minute(00)
+t1 = new_time(h1, m1)
+t2 = new_time(h2, m2)
+ts = new_time_span(t1, t2)
+
+h1 = new_hour(15)
+h2 = new_hour(16)
+m1 = new_minute(00)
+m2 = new_minute(00)
+t1 = new_time(h1, m1)
+t2 = new_time(h2, m2)
+ts = new_time_span(t1, t2)
+
+from calendar import *
+create("asd")
+book("asd", 20, "sep", "07:00", "09:00", "Rob train")
+book("asd", 20, "sep", "13:00", "18:00", "Escape with loot")
+show("asd", 20, "sep")
+show_free("asd", 20, "sep", "08:00", "21:00")
+remove("asd", 20, "sep", "15:00")
+
+rec:
+loopa igenom appointments tills du hittar appoitment med start > start_time
+	sätt app start till end_time
+	insert time_span med start_time och stop_time
+	kalla på sig själv med app end som nya start_time
+
+
+
+
+
+
+

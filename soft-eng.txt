@@ -1,0 +1,13 @@
+systematisk och disciplinerad utveckling, körning och underhåll av program
+tolka krav
+kravexempel som use-case (a coffedrinker buys a cup of coffe)
+balansera kvalitetskrav
+förbereda för ändringar
+bra arkitektur, modulära system, lättare att testa
+koppling och kohesion
+eftersträva låg sammankoppling (beroende på situation)
+kohesion är hur sammanhängade delarna i en modul är
+detaljerad design
+statisk beskrivning med UML klassdiagram
+förstå domänen man jobbar inom, konsekvenser av misstag skiljer sig om man gör fel
+
